@@ -62,7 +62,6 @@ CCTV11,mitv://generationnexxxt.com:19806/aed547d30ca64a089f9b9adad8d9ee91
 CCTV12,mitv://generationnexxxt.com:19806/70a7e5f93ab14d978706c237fe142277
 CCTV13,mitv://generationnexxxt.com:19806/89e640d10d2646d3b7580c9bd85e9565
 CCTV14,mitv://generationnexxxt.com:19806/5ce5a7ff03b541cc8ef405312b4fec09
-
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8

@@ -226,7 +226,6 @@ CCTV15,http://sx.liuyun.wang:88/live/migu.php?id=cctv15
 云南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 贵州卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
 康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
-厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 广西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
@@ -420,7 +419,6 @@ CCTV15,http://sx.liuyun.wang:88/live/migu.php?id=cctv15
 神医喜来乐,http://mmitv.top/pltv/yy.php?id=1382714119
 康熙微服私访记,http://mmitv.top/pltv/yy.php?id=1352811698
 康熙微服私访记,http://zzy789.xyz/bili.php?id=,http://zzy789.xyz/bili.php?id=8409992
-铁齿铜牙纪晓岚+康熙微服私访记,http://zzy789.xyz/bili.php?id=22943348
 金婚,http://mmitv.top/pltv/yy.php?id=1382828768
 金婚,http://mmitv.top/pltv/yy.php?id=1382736832
 钟馗传说,http://mmitv.top/pltv/yy.php?id=1382736839

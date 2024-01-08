@@ -108,7 +108,6 @@ CCTV2,http://sx.liuyun.wang:88/live/ysp.php?id=cctv2
 CCTV3,http://sx.liuyun.wang:88/live/ysp.php?id=cctv3
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CCTV4,http://sx.liuyun.wang:88/live/ysp.php?id=cctv4
 CCTV5,http://sx.liuyun.wang:88/live/ysp.php?id=cctv5
 CCTV5+,http://sx.liuyun.wang:88/live/ysp.php?id=cctv5p

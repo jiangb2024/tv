@@ -1,211 +1,421 @@
 #EXTM3U
-#EXTINF:-1,CCTV1
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv1
-#EXTINF:-1,CCTV2
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv2
-#EXTINF:-1,CCTV3
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv3
-#EXTINF:-1,CCTV4
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv4
-#EXTINF:-1,CCTV5
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv5
-#EXTINF:-1,CCTV5+
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv5p
-#EXTINF:-1,CCTV6
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv6
-#EXTINF:-1,CCTV7
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv7
-#EXTINF:-1,CCTV8
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv8
-#EXTINF:-1,CCTV9
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv9
-#EXTINF:-1,CCTV10
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv10
-#EXTINF:-1,CCTV11
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv11
-#EXTINF:-1,CCTV12
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv12
-#EXTINF:-1,CCTV13
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv13
-#EXTINF:-1,CCTV14
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv14
-#EXTINF:-1,CCTV15
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv15
-#EXTINF:-1,CCTV16
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv16
-#EXTINF:-1,CCTV17
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv17
-#EXTINF:-1,CCTV4k
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv4k
-#EXTINF:-1,CCTV8k
-http://sx.liuyun.wang:88/live/ysp.php?id=cctv8k
-#EXTINF:-1,CCTV兵器科技
-http://sx.liuyun.wang:88/live/ysp.php?id=bqkj
-#EXTINF:-1,CCTV第一剧场
-http://sx.liuyun.wang:88/live/ysp.php?id=dyjc
-#EXTINF:-1,CCTV怀旧剧场
-http://sx.liuyun.wang:88/live/ysp.php?id=hjjc
-#EXTINF:-1,CCTV风云剧场
-http://sx.liuyun.wang:88/live/ysp.php?id=fyjc
-#EXTINF:-1,CCTV风云音乐
-http://sx.liuyun.wang:88/live/ysp.php?id=fyyy
-#EXTINF:-1,CCTV风云足球
-http://sx.liuyun.wang:88/live/ysp.php?id=fyzq
-#EXTINF:-1,CCTV电视指南
-http://sx.liuyun.wang:88/live/ysp.php?id=dszn
-#EXTINF:-1,CCTV央视文化精品
-http://sx.liuyun.wang:88/live/ysp.php?id=whjp
-#EXTINF:-1,CCTV世界地理
-http://sx.liuyun.wang:88/live/ysp.php?id=sjdl
-#EXTINF:-1,CCTV高尔夫网球
-http://sx.liuyun.wang:88/live/ysp.php?id=gefwq
-#EXTINF:-1,CCTV央视台球
-http://sx.liuyun.wang:88/live/ysp.php?id=ystq
-#EXTINF:-1,CCTV卫生健康
-http://sx.liuyun.wang:88/live/ysp.php?id=wsjk
-#EXTINF:-1,CGTN
-http://sx.liuyun.wang:88/live/ysp.php?id=cgtn
-#EXTINF:-1,CGTN纪录
-http://sx.liuyun.wang:88/live/ysp.php?id=cgtnjl
-#EXTINF:-1,CGTN西语
-http://sx.liuyun.wang:88/live/ysp.php?id=cgtne
-#EXTINF:-1,CGTN法语
-http://sx.liuyun.wang:88/live/ysp.php?id=cgtnf
-#EXTINF:-1,CGTN阿语
-http://sx.liuyun.wang:88/live/ysp.php?id=cgtna
-#EXTINF:-1,CGTN俄语
-http://sx.liuyun.wang:88/live/ysp.php?id=cgtnr
-#EXTINF:-1,CCTV1
-http://sx.liuyun.wang:88/live/migu.php?id=cctv1
-#EXTINF:-1,CCTV1
-http://sx.liuyun.wang:88/live/migu.php?id=cctv1b
-#EXTINF:-1,CCTV2
-http://sx.liuyun.wang:88/live/migu.php?id=cctv2
-#EXTINF:-1,CCTV4
-http://sx.liuyun.wang:88/live/migu.php?id=cctv4
-#EXTINF:-1,CCTV-4欧洲
-http://sx.liuyun.wang:88/live/migu.php?id=cctv4o
-#EXTINF:-1,CCTV-4美洲
-http://sx.liuyun.wang:88/live/migu.php?id=cctv4a
-#EXTINF:-1,CCTV5
-http://sx.liuyun.wang:88/live/migu.php?id=cctv5
-#EXTINF:-1,CCTV5
-http://sx.liuyun.wang:88/live/migu.php?id=cctv5b
-#EXTINF:-1,CCTV5+
-http://sx.liuyun.wang:88/live/migu.php?id=cctv5p
-#EXTINF:-1,CCTV6
-http://sx.liuyun.wang:88/live/migu.php?id=cctv6
-#EXTINF:-1,CCTV7
-http://sx.liuyun.wang:88/live/migu.php?id=cctv7
-#EXTINF:-1,CCTV10
-http://sx.liuyun.wang:88/live/migu.php?id=cctv10
-#EXTINF:-1,CCTV11
-http://sx.liuyun.wang:88/live/migu.php?id=cctv11
-#EXTINF:-1,CCTV15
-http://sx.liuyun.wang:88/live/migu.php?id=cctv15
-#EXTINF:-1,CGTN西语
-http://sx.liuyun.wang:88/live/migu.php?id=cgtne
-#EXTINF:-1,CGTN阿语
-http://sx.liuyun.wang:88/live/migu.php?id=cgtna
-#EXTINF:-1,北京卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=bjws
-#EXTINF:-1,东方卫视
-http://sx.liuyun.wang:88/live/migu.php?id=dfws2
-#EXTINF:-1,重庆卫视
-http://sx.liuyun.wang:88/live/migu.php?id=cqws
-#EXTINF:-1,吉林卫视
-http://sx.liuyun.wang:88/live/migu.php?id=jlws
-#EXTINF:-1,辽宁卫视
-http://sx.liuyun.wang:88/live/migu.php?id=lnws
-#EXTINF:-1,内蒙古卫视
-http://sx.liuyun.wang:88/live/migu.php?id=nmws
-#EXTINF:-1,甘肃卫视
-http://sx.liuyun.wang:88/live/migu.php?id=gsws
-#EXTINF:-1,青海卫视
-http://sx.liuyun.wang:88/live/migu.php?id=qhws
-#EXTINF:-1,湖北卫视
-http://sx.liuyun.wang:88/live/migu.php?id=hubws
-#EXTINF:-1,江西卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=jxws
-#EXTINF:-1,江苏卫视
-http://sx.liuyun.wang:88/live/migu.php?id=jsws
-#EXTINF:-1,广东卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=gdws
-#EXTINF:-1,大湾区卫视
-http://sx.liuyun.wang:88/live/migu.php?id=dwqws
-#EXTINF:-1,新疆卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=xjws
-#EXTINF:-1,西藏卫视
-http://sx.liuyun.wang:88/live/migu.php?id=xzws
-#EXTINF:-1,海南卫视
-http://sx.liuyun.wang:88/live/migu.php?id=hinws
-#EXTINF:-1,江苏卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=jsws
-#EXTINF:-1,东方卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=dfws
-#EXTINF:-1,浙江卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=zjws
-#EXTINF:-1,湖南卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=hunws
-#EXTINF:-1,湖北卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=hubws
-#EXTINF:-1,广西卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=gxws
-#EXTINF:-1,黑龙江卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=hljws
-#EXTINF:-1,海南卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=hinws
-#EXTINF:-1,重庆卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=cqws
-#EXTINF:-1,深圳卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=szws
-#EXTINF:-1,四川卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=scws
-#EXTINF:-1,河南卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=hnws
-#EXTINF:-1,东南卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=dnws
-#EXTINF:-1,贵州卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=gzws
-#EXTINF:-1,辽宁卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=lnws
-#EXTINF:-1,安徽卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=ahws
-#EXTINF:-1,河北卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=hbws
-#EXTINF:-1,天津卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=tjws
-#EXTINF:-1,山东卫视
-http://sx.liuyun.wang:88/live/ysp.php?id=sdws
-#EXTINF:-1,浙江公共新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1,浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1,浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1,浙江教科影视
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1,浙江数码时代
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1,浙江民生休闲
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1,浙江经济生活
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1,浙江钱江频道
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1,CGTN记录
-https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1,CGTN俄语
-https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1,CGTN法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1,CGTN西语
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,CGTN阿语
-https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1,CCTV1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1,CCTV1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
-#EXTINF:-1,CCTV2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv1
+undefined
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv2
+undefined
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv3
+undefined
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv4
+undefined
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv5
+undefined
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv5p
+undefined
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv6
+undefined
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv7
+undefined
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv8
+undefined
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv9
+undefined
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv10
+undefined
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv11
+undefined
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv12
+undefined
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv13
+undefined
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv14
+undefined
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv15
+undefined
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv16
+undefined
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv17
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cctv4k" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cctv4k" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CCTV4K.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv4k
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cctv8k" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cctv8k" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CCTV8K.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv8k
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=bqkj" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=bqkj" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=BQKJ.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=bqkj
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=dyjc" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=dyjc" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=DYJC.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=dyjc
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hjjc" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hjjc" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HJJC.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hjjc
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=fyjc" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=fyjc" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=FYJC.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=fyjc
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=fyyy" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=fyyy" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=FYYY.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=fyyy
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=fyzq
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=dszn
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=whjp" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=whjp" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=WHJP.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=whjp
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=sjdl" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=sjdl" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=SJDL.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=sjdl
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=gefwq" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=gefwq" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=GEFWQ.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=gefwq
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=ystq" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=ystq" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=YSTQ.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=ystq
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=wsjk" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=wsjk" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=WSJK.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=wsjk
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cgtn" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cgtn" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CGTN.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cgtn
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cgtnjl" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cgtnjl" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CGTNJL.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cgtnjl
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cgtne" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cgtne" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CGTNE.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cgtne
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cgtnf" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cgtnf" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CGTNF.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cgtnf
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cgtna" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cgtna" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CGTNA.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cgtna
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cgtnr" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cgtnr" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CGTNR.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cgtnr
+undefined
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv1
+undefined
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv1b
+undefined
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv2
+undefined
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv4
+undefined
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv4o
+undefined
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv4a
+undefined
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv5
+undefined
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv5b
+undefined
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv5p
+undefined
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv6
+undefined
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv7
+undefined
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv10
+undefined
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv11
+undefined
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv15
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=cgtne" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=cgtne" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=CGTNE.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cgtne
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=cgtna" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=cgtna" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=CGTNA.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cgtna
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=bjws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=bjws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=BJWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=bjws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=dfws2" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=dfws2" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=DFWS2.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=dfws2
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=cqws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=cqws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=CQWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=cqws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=jlws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=jlws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=JLWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=jlws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=lnws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=lnws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=LNWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=lnws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=nmws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=nmws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=NMWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=nmws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=gsws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=gsws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=GSWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=gsws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=qhws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=qhws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=QHWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=qhws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=hubws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=hubws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=HUBWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=hubws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=jxws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=jxws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=JXWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=jxws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=jsws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=jsws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=JSWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=jsws
+undefined
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=gdws
+undefined
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=dwqws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=xjws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=xjws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=XJWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=xjws
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=xzws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=hinws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=hinws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=HINWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=hinws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=jsws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=jsws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=JSWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=jsws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=dfws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=dfws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=DFWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=dfws
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=zjws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hunws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hunws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HUNWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hunws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hubws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hubws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HUBWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hubws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=gxws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=gxws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=GXWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=gxws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hljws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hljws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HLJWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hljws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hinws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hinws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HINWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hinws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cqws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cqws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CQWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=cqws
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=szws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=scws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=scws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=SCWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=scws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hnws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hnws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HNWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hnws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=dnws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=dnws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=DNWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=dnws
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=gzws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=lnws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=lnws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=LNWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=lnws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=ahws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=ahws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=AHWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=ahws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hbws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hbws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HBWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hbws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=tjws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=tjws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=TJWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=tjws
+undefined
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=sdws
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="https://livedoc.cgtn.com/500d/prog_index.m3u8" tvg-name="https://livedoc.cgtn.com/500d/prog_index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://LIVEDOC.CGTN.COM/D/PROG_INDEX3U8.png" group-title="央视",https://livedoc.cgtn.com/500d/prog_index.m3u8
+undefined
+#EXTINF:-1,tvg-id="https://liveru.cgtn.com/1000r/prog_index.m3u8" tvg-name="https://liveru.cgtn.com/1000r/prog_index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://LIVERU.CGTN.COM/R/PROG_INDEX3U8.png" group-title="央视",https://liveru.cgtn.com/1000r/prog_index.m3u8
+undefined
+#EXTINF:-1,tvg-id="https://livefr.cgtn.com/1000f/prog_index.m3u8" tvg-name="https://livefr.cgtn.com/1000f/prog_index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://LIVEFR.CGTN.COM/F/PROG_INDEX3U8.png" group-title="央视",https://livefr.cgtn.com/1000f/prog_index.m3u8
+undefined
+#EXTINF:-1,tvg-id="https://livees.cgtn.com/1000e/prog_index.m3u8" tvg-name="https://livees.cgtn.com/1000e/prog_index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://LIVEES.CGTN.COM/E/PROG_INDEX3U8.png" group-title="央视",https://livees.cgtn.com/1000e/prog_index.m3u8
+undefined
+#EXTINF:-1,tvg-id="https://livear.cgtn.com/1000a/prog_index.m3u8" tvg-name="https://livear.cgtn.com/1000a/prog_index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://LIVEAR.CGTN.COM/A/PROG_INDEX3U8.png" group-title="央视",https://livear.cgtn.com/1000a/prog_index.m3u8
+undefined
+#EXTINF:-1,tvg-id="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8" tvg-name="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTP://OTTRRS.HL.CHINAMOBILE.COM/PLTV///16/INDEX3U8.png" group-title="其他",http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+undefined
+#EXTINF:-1,tvg-id="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8" tvg-name="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTP://OTTRRS.HL.CHINAMOBILE.COM/PLTV///19/INDEX3U8.png" group-title="其他",http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+undefined
+#EXTINF:-1,tvg-id="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#EXTM3U" tvg-name="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#EXTM3U" tvg-logo="https://epg.112114.xyz/logo/HTTP://OTTRRS.HL.CHINAMOBILE.COM/PLTV///40/INDEX3U8#EXTM3U.png" group-title="其他",http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#EXTM3U
+undefined
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv1
+undefined
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv2
+undefined
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv3
+undefined
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv4
+undefined
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv5
+undefined
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv5p
+undefined
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv6
+undefined
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv7
+undefined
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv8
+undefined
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv9
+undefined
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv10
+undefined
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv11
+undefined
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv12
+undefined
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv13
+undefined
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv14
+undefined
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv15
+undefined
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv16
+undefined
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv17
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cctv4k" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cctv4k" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CCTV4K.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv4k
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cctv8k" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cctv8k" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CCTV8K.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cctv8k
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=bqkj" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=bqkj" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=BQKJ.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=bqkj
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=dyjc" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=dyjc" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=DYJC.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=dyjc
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hjjc" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hjjc" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HJJC.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hjjc
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=fyjc" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=fyjc" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=FYJC.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=fyjc
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=fyyy" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=fyyy" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=FYYY.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=fyyy
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=fyzq
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=dszn
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=whjp" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=whjp" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=WHJP.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=whjp
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=sjdl" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=sjdl" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=SJDL.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=sjdl
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=gefwq" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=gefwq" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=GEFWQ.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=gefwq
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=ystq" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=ystq" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=YSTQ.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=ystq
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=wsjk" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=wsjk" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=WSJK.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=wsjk
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cgtn" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cgtn" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CGTN.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cgtn
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cgtnjl" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cgtnjl" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CGTNJL.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cgtnjl
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cgtne" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cgtne" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CGTNE.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cgtne
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cgtnf" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cgtnf" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CGTNF.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cgtnf
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cgtna" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cgtna" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CGTNA.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cgtna
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cgtnr" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cgtnr" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CGTNR.png" group-title="央视",http://sx.liuyun.wang:88/live/ysp.php?id=cgtnr
+undefined
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv1
+undefined
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv1b
+undefined
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv2
+undefined
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv4
+undefined
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv4o
+undefined
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv4a
+undefined
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv5
+undefined
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv5b
+undefined
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv5p
+undefined
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv6
+undefined
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv7
+undefined
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv10
+undefined
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv11
+undefined
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cctv15
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=cgtne" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=cgtne" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=CGTNE.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cgtne
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=cgtna" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=cgtna" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=CGTNA.png" group-title="央视",http://sx.liuyun.wang:88/live/migu.php?id=cgtna
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=bjws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=bjws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=BJWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=bjws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=dfws2" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=dfws2" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=DFWS2.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=dfws2
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=cqws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=cqws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=CQWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=cqws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=jlws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=jlws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=JLWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=jlws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=lnws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=lnws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=LNWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=lnws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=nmws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=nmws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=NMWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=nmws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=gsws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=gsws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=GSWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=gsws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=qhws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=qhws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=QHWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=qhws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=hubws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=hubws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=HUBWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=hubws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=jxws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=jxws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=JXWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=jxws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=jsws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=jsws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=JSWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=jsws
+undefined
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=gdws
+undefined
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=dwqws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=xjws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=xjws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=XJWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=xjws
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=xzws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/migu.php?id=hinws" tvg-name="http://sx.liuyun.wang:88/live/migu.php?id=hinws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/MIGU.PHP?ID=HINWS.png" group-title="其他",http://sx.liuyun.wang:88/live/migu.php?id=hinws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=jsws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=jsws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=JSWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=jsws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=dfws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=dfws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=DFWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=dfws
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=zjws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hunws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hunws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HUNWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hunws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hubws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hubws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HUBWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hubws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=gxws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=gxws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=GXWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=gxws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hljws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hljws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HLJWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hljws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hinws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hinws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HINWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hinws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=cqws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=cqws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=CQWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=cqws
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=szws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=scws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=scws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=SCWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=scws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hnws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hnws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HNWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hnws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=dnws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=dnws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=DNWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=dnws
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=gzws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=lnws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=lnws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=LNWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=lnws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=ahws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=ahws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=AHWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=ahws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=hbws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=hbws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=HBWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=hbws
+undefined
+#EXTINF:-1,tvg-id="http://sx.liuyun.wang:88/live/ysp.php?id=tjws" tvg-name="http://sx.liuyun.wang:88/live/ysp.php?id=tjws" tvg-logo="https://epg.112114.xyz/logo/HTTP://SX.LIUYUN.WANG:88/LIVE/YSP.PHP?ID=TJWS.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=tjws
+undefined
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="其他",http://sx.liuyun.wang:88/live/ysp.php?id=sdws
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+undefined
+#EXTINF:-1,tvg-id="https://livedoc.cgtn.com/500d/prog_index.m3u8" tvg-name="https://livedoc.cgtn.com/500d/prog_index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://LIVEDOC.CGTN.COM/D/PROG_INDEX3U8.png" group-title="央视",https://livedoc.cgtn.com/500d/prog_index.m3u8
+undefined
+#EXTINF:-1,tvg-id="https://liveru.cgtn.com/1000r/prog_index.m3u8" tvg-name="https://liveru.cgtn.com/1000r/prog_index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://LIVERU.CGTN.COM/R/PROG_INDEX3U8.png" group-title="央视",https://liveru.cgtn.com/1000r/prog_index.m3u8
+undefined
+#EXTINF:-1,tvg-id="https://livefr.cgtn.com/1000f/prog_index.m3u8" tvg-name="https://livefr.cgtn.com/1000f/prog_index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://LIVEFR.CGTN.COM/F/PROG_INDEX3U8.png" group-title="央视",https://livefr.cgtn.com/1000f/prog_index.m3u8
+undefined
+#EXTINF:-1,tvg-id="https://livees.cgtn.com/1000e/prog_index.m3u8" tvg-name="https://livees.cgtn.com/1000e/prog_index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://LIVEES.CGTN.COM/E/PROG_INDEX3U8.png" group-title="央视",https://livees.cgtn.com/1000e/prog_index.m3u8
+undefined
+#EXTINF:-1,tvg-id="https://livear.cgtn.com/1000a/prog_index.m3u8" tvg-name="https://livear.cgtn.com/1000a/prog_index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://LIVEAR.CGTN.COM/A/PROG_INDEX3U8.png" group-title="央视",https://livear.cgtn.com/1000a/prog_index.m3u8
+undefined
+#EXTINF:-1,tvg-id="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8" tvg-name="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTP://OTTRRS.HL.CHINAMOBILE.COM/PLTV///16/INDEX3U8.png" group-title="其他",http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+undefined
+#EXTINF:-1,tvg-id="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8" tvg-name="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTP://OTTRRS.HL.CHINAMOBILE.COM/PLTV///19/INDEX3U8.png" group-title="其他",http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+undefined
+#EXTINF:-1,tvg-id="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8" tvg-name="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTP://OTTRRS.HL.CHINAMOBILE.COM/PLTV///40/INDEX3U8.png" group-title="其他",http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+undefined

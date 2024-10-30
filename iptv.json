@@ -6,7 +6,21 @@
   "sites": [
      {
       "key": "弹幕",
-      "name": "⛅️解放东村",
+      "name": "解放东村",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "jar": "http://我不是.摸鱼儿.xyz/by/jar/danmu.php",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+     {
+      "key": "弹幕",
+      "name": "⛅️解放东村弹幕",
       "type": 3,
       "api": "csp_TianTian",
       "jar": "http://我不是.摸鱼儿.xyz/by/jar/danmu.php",

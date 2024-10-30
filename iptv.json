@@ -22,7 +22,7 @@
       "key": "弹幕",
       "name": "⛅️解放东村弹幕",
       "type": 3,
-      "api": "csp_TianTian",
+      "api": "csp_Jianpian",
       "jar": "http://我不是.摸鱼儿.xyz/by/jar/danmu.php",
       "searchable": 1,
       "quickSearch": 1,

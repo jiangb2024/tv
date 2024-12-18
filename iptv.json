@@ -16,7 +16,7 @@
 ],
 "sites": [
 
-{"key":"天天","name":"💡解放东村","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"豆豆","name":"💡解放东村","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"南瓜","name":"💡南瓜｜影视","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天天","name":"💡天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"韩小圈","name":"💡韩小｜影视","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},

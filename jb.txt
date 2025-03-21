@@ -207,7 +207,7 @@ newtv,#genre#
 神医喜来乐,https://live.metshop.top/huya/11601978
 庆余年,https://live.metshop.top/huya/11352960
 康熙微服私访记,https://live.metshop.top/huya/11342418
-狂飙,https://live.metshop.top/huya/30357165
+
 老三国,https://live.metshop.top/huya/11602081
 新三国,https://live.metshop.top/huya/11352944
 新水浒,https://live.metshop.top/huya/11342384
@@ -227,7 +227,7 @@ newtv,#genre#
 神医喜来乐,http://124.248.69.76:26781/huya/11601978
 庆余年,http://124.248.69.76:26781/huya/11352960
 康熙微服私访记,http://124.248.69.76:26781/huya/11342418
-狂飙,http://124.248.69.76:26781/huya/30357165
+
 老三国,http://124.248.69.76:26781/huya/11602081
 新三国,http://124.248.69.76:26781/huya/11352944
 新水浒,http://124.248.69.76:26781/huya/11342384
@@ -247,7 +247,7 @@ newtv,#genre#
 神医喜来乐,https://www.goodiptv.club/huya/11601978
 庆余年,https://www.goodiptv.club/huya/11352960
 康熙微服私访记,https://www.goodiptv.club/huya/11342418
-狂飙,https://www.goodiptv.club/huya/30357165
+
 老三国,https://www.goodiptv.club/huya/11602081
 新三国,https://www.goodiptv.club/huya/11352944
 新水浒,https://www.goodiptv.club/huya/11342384

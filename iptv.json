@@ -1,16 +1,41 @@
 {
     "spider": "./spider.jar",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-    "warningText": "🍄新湖家园",
+    "warningText": "访问网站【api.starlink.fan】获取更多接口",
     "sites": [
         {
-            "key": "豆豆",
-            "name": "🍄新湖家园",
+            "key": "豆瓣",
+            "name": "访问网站【api.starlink.fan】获取更多接口",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
-        
+        {
+            "key": "配置中心",
+            "name": "配置｜中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "本地",
+            "name": "本地｜视频",
+            "type": 3,
+            "api": "csp_LocalFile"
+        },
+        {
+            "key": "预告",
+            "name": "新片｜预告",
+            "type": 3,
+            "api": "csp_YGP",
+            "searchable": 0
+        },
         {
             "key": "热播影视",
             "name": "热播｜APP",
@@ -45,7 +70,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "appName": "天堂",
+                "appName": "电影天堂",
                 "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
                 "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
                 "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
@@ -77,15 +102,15 @@
             }
         },
         {
-            "key": "谊",
-            "name": "谊｜APP",
+            "key": "华谊",
+            "name": "华谊｜APP",
             "type": 3,
             "api": "csp_AppDrama",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "appName": "谊",
+                "appName": "华谊",
                 "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
                 "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
                 "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
@@ -97,8 +122,8 @@
             }
         },
         {
-            "key": "果",
-            "name": "果｜APP",
+            "key": "苹果",
+            "name": "苹果｜APP",
             "type": 3,
             "api": "csp_AppDrama",
             "searchable": 1,
@@ -1365,14 +1390,14 @@
             "api": "./api/WLZB.py"
         },
         {
-            "key": "哔直播",
-            "name": "哔｜直播",
+            "key": "哔哩直播",
+            "name": "哔哩｜直播",
             "type": 3,
             "api": "./api/BLZB.py"
         },
         {
-            "key": "哔合集",
-            "name": "哔｜合集",
+            "key": "哔哩合集",
+            "name": "哔哩｜合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -1389,8 +1414,8 @@
             }
         },
         {
-            "key": "哔演唱会",
-            "name": "哔｜音乐",
+            "key": "哔哩哔哩演唱会",
+            "name": "哔哩｜音乐",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1406,8 +1431,8 @@
             }
         },
         {
-            "key": "哔听书",
-            "name": "哔｜听书",
+            "key": "哔哩哔哩听书",
+            "name": "哔哩｜听书",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1423,8 +1448,8 @@
             }
         },
         {
-            "key": "哔相声",
-            "name": "哔｜相声",
+            "key": "哔哩哔哩相声",
+            "name": "哔哩｜相声",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1440,8 +1465,8 @@
             }
         },
         {
-            "key": "哔小品",
-            "name": "哔｜小品",
+            "key": "哔哩哔哩小品",
+            "name": "哔哩｜小品",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1457,8 +1482,8 @@
             }
         },
         {
-            "key": "哔戏曲",
-            "name": "哔｜戏曲",
+            "key": "哔哩哔哩戏曲",
+            "name": "哔哩｜戏曲",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1689,7 +1714,7 @@
             ]
         },
         {
-            "name": "抖",
+            "name": "抖音",
             "hosts": [
                 "douyin.com"
             ],
@@ -1705,7 +1730,21 @@
             "regex": [
                 "更多",
                 "请访问",
-                
+                "example",
+                "社 區",
+                "x u u",
+                "直 播",
+                "更 新",
+                "社 区",
+                "有趣",
+                "有 趣",
+                "英皇体育",
+                "全中文AV在线",
+                "澳门皇冠赌场",
+                "哥哥快来",
+                "美女荷官",
+                "裸聊",
+                "新片首发",
                 "UUE29"
             ]
         },
@@ -1775,9 +1814,39 @@
         }
     ],
     "flags": [
-        "you",
-        
-        "哔"
+        "youku",
+        "优酷",
+        "优 酷",
+        "优酷视频",
+        "qq",
+        "腾讯",
+        "腾 讯",
+        "腾讯视频",
+        "iqiyi",
+        "qiyi",
+        "奇艺",
+        "爱奇艺",
+        "爱 奇 艺",
+        "m1905",
+        "xigua",
+        "letv",
+        "leshi",
+        "乐视",
+        "乐 视",
+        "sohu",
+        "搜狐",
+        "搜 狐",
+        "搜狐视频",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "芒果",
+        "imgo",
+        "芒果TV",
+        "芒 果 T V",
+        "bilibili",
+        "哔 哩",
+        "哔 哩 哔 哩"
     ],
     "ijk": [
         {

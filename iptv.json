@@ -3,7 +3,7 @@
 {
   "spider": "http://47.120.41.246:8025/vip/jar/ouge.php",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-//   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
+//   "warningText": "仅作学习交流测试",
   "lives": [
     {
       "name": "平台直播",
@@ -22,16 +22,8 @@
       
       
     {
-      "key": "drpy_js_豆瓣",
-      "name": "💥最新软件接口获取❤Link3.cc/uuccc❤",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar":"http://47.120.41.246:8025/vip/jar/tan.php"
-    },
-  //道长
-		{
 			"key": "hpy_js_豆瓣",
-			"name": "豆瓣排行②",
+			"name": "🍄新湖家园",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -40,7 +32,8 @@
 			"order_num": 0,
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/豆瓣[官].js"
 		},
-
+  //道长
+		
 
     {
       "key": "配置中心",
